@@ -1,6 +1,6 @@
 # Quiz App
 
-This is a simple quiz app built with React and Redux.
+This is a simple quiz app built with MERN stack
 
 ## Usage
 
